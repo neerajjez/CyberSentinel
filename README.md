@@ -22,7 +22,7 @@ CyberSentinel is an advanced Python-based cybersecurity assessment tool designed
 
 🛠️ **Usage: **
 1. Clone the repository and navigate to the project folder. 
-	```git clone https://github.com/```
+	```git clone https://github.com/neerajjez/CyberSentinel.git```
 2. Change the directory to main folder
 	```cd cybersentinel```
 3. Install the Dependencies from requirements via pip package manager
